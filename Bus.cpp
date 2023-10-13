@@ -180,21 +180,10 @@ void a::avail()
   cout<<"\n\n\t\t\tPress enter to continue";
   getch();
 }
-void developdet()
-{
- clrscr();
- cout<<"\n\n\n\n\n\n\n\t\t\t\tDeveloped by:\n";
- delay(500);
- cout<<"\n\t\t\t\tS. Arunnesh Kumar";
- delay(1000);
- cout<<"\n\t\t\t\tB.K.A. Dhanush Ram";
- delay(1500);
- cout<<"\n\t\t\t\tM. Rajarajan";
-}
+
 void main()
 {
 clrscr();
-developdet();
 delay(4500);
 clrscr();
 int x;
